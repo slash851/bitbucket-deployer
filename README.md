@@ -11,8 +11,10 @@ sh DeployBranch.sh master MyDeploy  https://bitbucket.org/path/toProject/get/ us
 ```
 
 where:
+```
 @param1 branch of the player on bitbucket 
 @param2 folder to extract the player 
 @param3 bitbucket project URL
 @param4 userID on bitbucket
 @param5 user Password on bitbucket
+```
