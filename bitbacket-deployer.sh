@@ -1,3 +1,4 @@
+#!/bin/bash
 # Script download player from bitbucket repositor
 
 # @param1 branch of the player on bitbucket
