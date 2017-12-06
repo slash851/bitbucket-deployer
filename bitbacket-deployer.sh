@@ -42,7 +42,8 @@ fi
 
 echo [info] downloading branch $branch
 
-file=$branch'.zip'
+
+file='/get/'$branch'.zip'
 
 if [ -f $file ] ; then
    rm $file

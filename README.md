@@ -7,7 +7,7 @@ Bash script for deploying directly from bitbucket to your server
 2. run script like that 
 
 ```js
-sh bitbacket-deployer.sh master MyDeploy  https://bitbucket.org/path/toProject/get/ user.name@mail.com password
+sh bitbacket-deployer.sh master MyDeployFolder  https://bitbucket.org/path/toProject user.name@mail.com password
 ```
 
 where:
