@@ -1,7 +1,7 @@
 # bitbucket-deployer
 Bash script for deploying directly from bitbucket to your server
 
-###Main functionalities:
+### Main functionalities:
 * deploying directly from bitbucket without having git installed on targeted server
 * possibility to deploy different branch just by specifying branch name
 * auto creating backup functionality
